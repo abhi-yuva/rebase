@@ -1,0 +1,2 @@
+this is to get single or multiple commits from one branch and merget it to
+another branch
